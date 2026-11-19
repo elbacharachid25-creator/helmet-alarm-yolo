@@ -1,0 +1,5 @@
+,images,helmet,head,images_with_bare_head
+train,3500,13422,4055,638
+val,750,2763,831,143
+test,750,2781,899,139
+total,5000,18966,5785,920
