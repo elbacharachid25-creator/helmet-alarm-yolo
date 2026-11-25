@@ -1,0 +1,5 @@
+ultralytics==8.4.215
+kagglehub
+pandas
+matplotlib
+Pillow
